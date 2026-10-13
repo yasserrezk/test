@@ -1,0 +1,1 @@
+Hello there, it's is an example of pushing a local repo to cloud remote platform (GitHub).
